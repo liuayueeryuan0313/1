@@ -15,7 +15,7 @@
 
 ## 用法
 
-1. 下载 [KOMA.js](https://github.com/liuayueeryuan0313/1/releases/latest/download/KOMA.js)，导入 Scriptable。
+1. 下载 [KOMA.js](https://raw.githubusercontent.com/liuayueeryuan0313/1/main/KOMA.js)，导入 Scriptable。
 2. 在 [KOMA](https://github.com/liuayueeryuan0313/KOMA)「订阅日历 → ICS 订阅 → 小组件 Token」生成专用 Token。服务端需支持 `/api/widget/v1/timetable` 接口。
 3. 运行脚本 →「配置接口与 Token」，填 HTTPS 站点地址和 Token；教学周自动读取。
 4. 桌面添加 Scriptable 大号组件并选择此脚本，无需组件参数。
